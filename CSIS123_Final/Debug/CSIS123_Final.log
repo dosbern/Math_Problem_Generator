@@ -1,0 +1,3 @@
+﻿  CSIS123_Final.cpp
+C:\Users\Ralvu\source\repos\CSIS123_Final\CSIS123_Final\CSIS123_Final.cpp(16,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  CSIS123_Final.vcxproj -> C:\Users\Ralvu\source\repos\CSIS123_Final\Debug\CSIS123_Final.exe
